@@ -1,5 +1,6 @@
 class TicketPricing
 	def self.solution(arr)
+		return 0 if arr.nil?
 		one_day_cost = 2
 		seven_day_cost = 7
 		thirty_day_cost = 30
