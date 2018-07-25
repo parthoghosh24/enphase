@@ -6,5 +6,4 @@ describe TicketPricing do
 			expect(TicketPricing.solution(arr)).to eql(11)  
 		end
 	end
-
 end
