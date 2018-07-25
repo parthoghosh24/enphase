@@ -3,7 +3,7 @@ class TicketPricing
 		return 0 if arr.nil?
 		one_day_cost = 2
 		seven_day_cost = 7
-		thirty_day_cost = 30
+		thirty_day_cost = 25
 
 		arr.sort!
 
